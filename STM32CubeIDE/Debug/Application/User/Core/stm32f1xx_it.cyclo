@@ -1,0 +1,11 @@
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:84:6:NMI_Handler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:99:6:HardFault_Handler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:114:6:MemManage_Handler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:129:6:BusFault_Handler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:144:6:UsageFault_Handler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:159:6:DebugMon_Handler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:179:6:DMA1_Channel3_IRQHandler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:193:6:DMA1_Channel4_IRQHandler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:207:6:DMA1_Channel5_IRQHandler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:221:6:TIM4_IRQHandler	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/stm32f1xx_it.c:235:6:USART3_IRQHandler	5

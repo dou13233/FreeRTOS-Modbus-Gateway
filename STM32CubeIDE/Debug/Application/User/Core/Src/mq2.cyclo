@@ -1,0 +1,4 @@
+../Application/User/Core/Src/mq2.c:31:6:MQ2_Init	1
+../Application/User/Core/Src/mq2.c:41:10:MQ2_GetAdcValue	2
+../Application/User/Core/Src/mq2.c:60:7:MQ2_GetGasConcentration	2
+../Application/User/Core/Src/mq2.c:102:9:MQ2_IsGasDetected	2

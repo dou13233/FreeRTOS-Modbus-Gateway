@@ -1,0 +1,2 @@
+../Application/User/Core/Src/modbus_service.c:31:17:Modbus_CRC16	4
+../Application/User/Core/Src/modbus_service.c:220:6:Modbus_Parse_Frame	16

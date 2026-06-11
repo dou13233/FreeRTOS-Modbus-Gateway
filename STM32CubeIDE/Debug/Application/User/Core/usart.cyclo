@@ -1,0 +1,5 @@
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/usart.c:29:5:__io_putchar	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/usart.c:44:6:MX_USART1_UART_Init	2
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/usart.c:73:6:MX_USART3_UART_Init	2
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/usart.c:101:6:HAL_UART_MspInit	6
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/usart.c:214:6:HAL_UART_MspDeInit	3

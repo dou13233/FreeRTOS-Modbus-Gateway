@@ -1,0 +1,10 @@
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:132:6:vApplicationGetIdleTaskMemory	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:146:6:MX_FREERTOS_Init	4
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:236:6:StartDefaultTask	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:255:6:StartSensorTask	2
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:301:6:StartModbusTask	3
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:346:6:StartAlarmTask	5
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:421:6:StartDisplayTask	20
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:564:6:StartKeyScanTask	4
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:617:6:StartLogTask	1
+D:/STM32Project/FreeRTOS/a/IndustrialGateway/Core/Src/freertos.c:654:6:StartUARTTask	14

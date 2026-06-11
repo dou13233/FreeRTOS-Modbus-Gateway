@@ -1,0 +1,5 @@
+../Application/User/Core/Src/dht11.c:15:13:DHT11_Delay_us	2
+../Application/User/Core/Src/dht11.c:33:13:DHT11_Delay_ms	3
+../Application/User/Core/Src/dht11.c:42:13:DHT11_Start	1
+../Application/User/Core/Src/dht11.c:54:16:DHT11_Read_Byte	9
+../Application/User/Core/Src/dht11.c:93:9:DHT11_Read_Data	10
